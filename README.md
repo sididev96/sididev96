@@ -1,0 +1,3 @@
+- Hi, I’m sidi 
+- I’m interested in web development, and low level languages like asm/c/c++ (although i still dont know how to code in them :>)
+- I’m currently learning HTML/CSS/JS plannign to pick up a framework like angular later.
