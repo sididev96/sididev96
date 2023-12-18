@@ -1,4 +1,4 @@
 - Interested in web development, and low level languages like asm/c/c++ (although i still dont know how to code in them)
 - Currently learning HTML/CSS/JS plannign to pick up a framework like angular later.
 - Have a niche interes in homebrew/console hacking
-- currently studying computer science
+- Currently studying computer science
